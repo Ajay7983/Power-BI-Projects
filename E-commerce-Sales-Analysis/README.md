@@ -22,10 +22,10 @@ Analyze customer purchasing behaviour, pricing trends, and promotional impacts t
 - Highlighted peak sale periods and balanced traffic across browser and app channels.
 
 ## Visuals
-![Dashboard Screenshot](https://github.com/Ajay7983/Power-BI-Projects/blob/main/E-commerce%20Sales%20Analysis/Dashboard.png)
+![Dashboard Screenshot](https://github.com/Ajay7983/Power-BI-Projects/blob/main/E-commerce-Sales-Analysis/Dashboard/Dashboard.png)
 
 ## Files
-- `E-commerce_Sales_Data_Analysis.pbix`: Power BI dashboard file.
+- [Download the Power BI Report](./reports/E-commerce_sales_data_analysis.pbix)
 
 ## Future Work
 - Incorporate real-time data for continuous monitoring of sales trends.
