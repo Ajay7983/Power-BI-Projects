@@ -25,7 +25,7 @@ Analyze customer purchasing behaviour, pricing trends, and promotional impacts t
 ![Dashboard Screenshot](https://github.com/Ajay7983/Power-BI-Projects/blob/main/E-commerce-Sales-Analysis/Dashboard/Dashboard.png)
 
 ## Files
-- [Download the Power BI Report](./reports/E-commerce_sales_data_analysis.pbix)
+- [Download the Power BI Report](./Reports/E-commerce_sales_data_analysis.pbix)
 
 ## Future Work
 - Incorporate real-time data for continuous monitoring of sales trends.
